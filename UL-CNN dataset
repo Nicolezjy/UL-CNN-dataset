@@ -1,1 +1,5 @@
+Self-design Dataset of pedestrian detection!
 
+Training set: 4339 pictures, 2219 for positive samples, 2120 for negative samples.
+Test set: 400 pictures, 200 for positive samples, 200 for negative samples.
+Resolution: 120*120
